@@ -272,6 +272,12 @@ main > section {
 /*	Header
 /* ==========================================*/
 
+#logo {
+    position: relative;
+    top: -20px;
+    height: 300%;
+}
+
 #navigation {
     -webkit-transition: all 0.8s ease 0s;
        -moz-transition: all 0.8s ease 0s;
