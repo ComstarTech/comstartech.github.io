@@ -952,6 +952,10 @@ ul.external li a:hover {
 /*=================================================================
 	Contact
 ==================================================================*/
+#contact {
+    background-color: #009EE3;
+    color: #fff;
+}
 
 .input-field {
     margin-bottom: 10px;
